@@ -84,6 +84,6 @@ ICG = cbind(GCL,GCR)
 #Outputs
 list(X=X,Z=Z,beta=beta,gamma=gamma,ICB=ICB,ICG=ICG, 
 CovarianceMatrixbeta=cov.betas,CovarianceMatrixgamma =cov.gammas,
-AIC=AIC,iteration=iteracion,convergence=convergencia)
+AIC=AIC,iteration=iteracion,convergence=convergencia, n=n, r=r)
 
 }

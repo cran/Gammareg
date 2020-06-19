@@ -20,6 +20,8 @@ else {
   est$AIC<-est$AIC  
   est$iteration <-est$iteration  
   est$convergence <-est$convergence
+  est$n <- est$n
+  est$r <- est$r
 
   est$call <- match.call()
   

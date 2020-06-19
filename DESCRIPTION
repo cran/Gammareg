@@ -1,16 +1,16 @@
 Package: Gammareg
 Type: Package
-Title: classic gamma regression: joint modeling of mean and shape
-        parameters
+Title: Classic Gamma Regression: Joint Modeling of Mean and Shape
+        Parameters
 License: GPL (>= 2)
-Version: 1.0
-Date: 2013-02-21
-Author: Martha Corrales and Edilberto Cepeda-Cuervo, with the colaboration of Maria Fernanda Zarate,Ricardo Duplat and Campo Elias Pardo.  
+Version: 3.0
+Date: 2020-07-01
+Author: Martha Corrales and Edilberto Cepeda-Cuervo, with the colaboration of Margarita Marin, Maria Fernanda Zarate, Ricardo Duplat and Campo Elias Pardo.  
 Maintainer: Martha Corrales <martha.corrales@usa.edu.co>
-Depends: R (>= 2.12.1)
-Description: This package performs gamma regression, where both mean and shape parameters follows lineal regression structures. 
+Depends: R (>= 4.0.0)
+Description: Performs Gamma regression, where both mean and shape parameters follows lineal regression structures. 
 Encoding: latin1
-Packaged: 2014-01-22 21:14:55 UTC; Admin
+Packaged: 2020-06-19 16:33:14 UTC; usuario
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2014-01-22 22:31:30
+Date/Publication: 2020-06-19 23:00:02 UTC

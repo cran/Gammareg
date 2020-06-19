@@ -1,11 +1,11 @@
-1b566d358da09007d431b68649a4db31 *DESCRIPTION
-df390c53434517b304ac5db487184641 *NAMESPACE
-732bcaf6ff24754585b46bae8b9decec *R/Gammareg.R
-6d7ee05e49d7404af127d21833eb220d *R/gammahetero1.R
-1e6553db228a77996d67b66375fa38c0 *R/gammahetero2.R
+5914cd510ebbc86234cf3e8baa35b9da *DESCRIPTION
+78c0b35f98f010fcf5d96d2c60282011 *NAMESPACE
+358cd5c647a9a29dd5b8896f1481c9df *R/Gammareg.R
+5ae04cc807cba256920694dc570a605a *R/gammahetero1.R
+8fd47c404d78ea2c3c075fb6b6ed0d38 *R/gammahetero2.R
 2a89b5dadb9eb7758f31818f95c9a768 *R/print.Gammareg.R
 dca3c2038842f1fe88c68373e8c0001d *R/print.summary.Gammareg.R
-40a9cb11a17c2b1e61fb12241d7492e2 *R/summary.Gammareg.R
+b8390db73a09ba6071d366d4d47fd95a *R/summary.Gammareg.R
 68e93055f8bf3a1bf5f7a22c000e808b *man/Gammareg-package.Rd
 8c5b0077a1a665933c762b28651071b1 *man/Gammareg.Rd
 1fffdf21d83b36958a830d659e894b85 *man/gammahetero1.Rd
