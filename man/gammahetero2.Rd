@@ -28,8 +28,8 @@ as is proposed in Cepeda (2001), using the Fisher Scoring algorithm, with log li
   \item{convergence}{value of convergence obtained}
 }
 \references{
-1. Cepeda-Cuervo, E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matem·ticas. 
-Universidade Federal do RÌo do Janeiro.
+1. Cepeda-Cuervo, E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matem√°ticas. 
+Universidade Federal do R√≠o do Janeiro.
 //http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEM20DA20VARIABILIDADE.pdf.
 http://www.bdigital.unal.edu.co/9394/.
 2. McCullagh, P. and Nelder, N.A. (1989). Generalized Linear Models. Second Edition. Chapman and Hall. 

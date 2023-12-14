@@ -1,4 +1,4 @@
-5914cd510ebbc86234cf3e8baa35b9da *DESCRIPTION
+618b26c8d14ec103b691e128a9ab7afd *DESCRIPTION
 78c0b35f98f010fcf5d96d2c60282011 *NAMESPACE
 358cd5c647a9a29dd5b8896f1481c9df *R/Gammareg.R
 5ae04cc807cba256920694dc570a605a *R/gammahetero1.R
@@ -7,9 +7,9 @@
 dca3c2038842f1fe88c68373e8c0001d *R/print.summary.Gammareg.R
 b8390db73a09ba6071d366d4d47fd95a *R/summary.Gammareg.R
 68e93055f8bf3a1bf5f7a22c000e808b *man/Gammareg-package.Rd
-8c5b0077a1a665933c762b28651071b1 *man/Gammareg.Rd
-1fffdf21d83b36958a830d659e894b85 *man/gammahetero1.Rd
-d2eab4ef4e23f8aa2fd2aad83ff1cc52 *man/gammahetero2.Rd
-1c51ccd3762a52ea8cde25684f7acdb2 *man/print.Gammareg.Rd
-384b80218b95278713b37b04ff6dadd4 *man/print.summary.Gammareg.Rd
-1d99d52a7d863e1340d4dbad4acad035 *man/summaryGammareg.Rd
+e09e6d3b0128253c8b62672ff2ac6b71 *man/Gammareg.Rd
+52d9b1af353e32ab960c982ca6154e5a *man/gammahetero1.Rd
+e8d05046c9cff0b1cb75195f4ab1507b *man/gammahetero2.Rd
+88bbff18ff51610401115928c231e9b9 *man/print.Gammareg.Rd
+fc37608f31239be81ff8e82e631d25e2 *man/print.summary.Gammareg.Rd
+8823aa5ed7c80eec4bb7239e5b29d25e *man/summaryGammareg.Rd
